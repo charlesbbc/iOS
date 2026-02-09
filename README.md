@@ -6,6 +6,7 @@ I would like to acknowledge the following developers and projects for their valu
 
 ## Deeplinks
 https://codeshare.frida.re/@ivan-sincek/ios-deeplink-fuzzing/
+
 frida --codeshare ivan-sincek/ios-deeplink-fuzzing -f YOUR_BINARY
 
 ## Frida WebViews Inspector
@@ -13,5 +14,7 @@ https://gist.github.com/izadgot/358d277aa5dc462c01d940375f8dcbf8
 
 ## Ipa dumper from App Store
 Need to authenticate
+
 ipatool auth login --email $your_mail
+
 https://github.com/majd/ipatool
